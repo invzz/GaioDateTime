@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gaioDateTime", "gaioDateTime\gaioDateTime.csproj", "{CC6B7DA2-AFED-495C-9C56-8995FE6D279C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaioTest", "GaioTest\GaioTest.csproj", "{0ED3744F-C7C2-4FA5-9D42-6CBB9AD7A80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6B7DA2-AFED-495C-9C56-8995FE6D279C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6B7DA2-AFED-495C-9C56-8995FE6D279C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6B7DA2-AFED-495C-9C56-8995FE6D279C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6B7DA2-AFED-495C-9C56-8995FE6D279C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED3744F-C7C2-4FA5-9D42-6CBB9AD7A80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED3744F-C7C2-4FA5-9D42-6CBB9AD7A80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED3744F-C7C2-4FA5-9D42-6CBB9AD7A80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED3744F-C7C2-4FA5-9D42-6CBB9AD7A80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0F87F6-0DAA-4AAA-AC60-64FDE73BE48C}
+	EndGlobalSection
+EndGlobal
